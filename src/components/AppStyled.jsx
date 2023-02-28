@@ -30,10 +30,8 @@ const MoviesGrid = styled.div`
 `;
 
 const Logo = styled.p`
-  font-weight: 700;
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
-  margin-right: 400px;
   margin-left: 70px;
 `;
 

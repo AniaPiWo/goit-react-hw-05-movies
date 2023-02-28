@@ -27,8 +27,15 @@ const Reviews = () => {
           )
         )
       ) : (
-        <p style={{ fontFamily: 'Roboto', textAlign: 'center' }}>
-          There is no reviews on this film
+        <p
+          style={{
+            fontSize: '30px',
+            fontFamily: 'Roboto',
+            textAlign: 'center',
+            padding: '30px',
+          }}
+        >
+          Unfortunately, this movie has no reviews yet 😞
         </p>
       )}
     </div>

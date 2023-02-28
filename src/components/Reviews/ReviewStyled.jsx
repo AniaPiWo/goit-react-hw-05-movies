@@ -6,6 +6,7 @@ const ReviewStyle = styled.div`
   gap: 30px;
   color: white;
   font-family: 'Roboto', sans-serif;
+  line-height: 20px;
 }
 `;
 
@@ -16,6 +17,7 @@ const ReviewAuthor = styled.div`
   flex-direction: column;
   color: white;
   font-family: 'Roboto', sans-serif;
+  line-height: 20px;
 }
 `;
 
@@ -23,6 +25,7 @@ const ReviewContent = styled.div`
   display: flex;
   color: white;
   font-family: 'Roboto', sans-serif;
+  line-height: 20px;
 }
 `;
 

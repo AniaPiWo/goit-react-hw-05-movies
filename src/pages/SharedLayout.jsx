@@ -15,7 +15,7 @@ export const SharedLayout = () => {
         <NavLinkItemLogo to="/">
           <Logo>
             <span role="img" aria-label="computer icon">
-              💻
+              🎥
             </span>{' '}
             MoviesApp
           </Logo>

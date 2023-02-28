@@ -38,7 +38,7 @@ const Movies = () => {
     <div>
       <SearchForm>
         <form onSubmit={submitHandler}>
-          <input type="text" placeholder="input movie name" name="movie" />
+          <input type="text" placeholder="Search..." name="movie" />
           <button type="submit">Search</button>
         </form>
       </SearchForm>
